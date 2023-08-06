@@ -11,7 +11,6 @@ function orderPizza(type, name, callback){
 }
 
 
-
 const status = (message) =>{
     console.log(message);
 }

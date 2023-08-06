@@ -18,7 +18,7 @@ function countVowelAndConsonant(myName){
 }
 
 
-const {vowelCount, consonant} = countVowelAndConsonant('Md. Jannatun Nime Nishat')
+const {vowelCount, consonant} = countVowelAndConsonant('Md Jannatun Nime Nishat')
 
 console.log(`Number of vowel: ${vowelCount}, Number of consonant: ${consonant}`);
 

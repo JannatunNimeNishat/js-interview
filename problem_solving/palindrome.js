@@ -2,7 +2,7 @@
 
 function checkPalindrome(myString){
     
-    if(myString == myString.split('').reverse().join('')){
+    if(myString == myString.split('').reverse().join('')){ 
         return `${myString} is  palindrome`;
     }
     else{
